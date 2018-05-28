@@ -1,6 +1,6 @@
 {
   "name": "@prodigyai/restify-cors-middleware",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "author": "Tabcorp Digital Technology Team",
   "license": "MIT",
   "description": "Common middlewares for all Node.js web services",
